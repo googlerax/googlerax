@@ -22,6 +22,13 @@ Aprendiendo sobre Programación,entusiasta y feliz por lo que aprendo cada dia.
 |cd | _cambia de directorio_|
 |cat|_Muestra el contenido de uno o mas archivos_|
 
+*:computer: mis alias usados*
+
+| Alias |   Uso           |
+| ---------- | ---------- |
+| d  | _cambia a mi unidad de trabajo_  |
+| cl | _limpia la consola_ |
+
 <!--
 **googlerax/googlerax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
