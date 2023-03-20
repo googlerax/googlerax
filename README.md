@@ -1,33 +1,28 @@
-## !Hola! soy Griselda :wave: :
-Aprendiendo sobre Programación,entusiasta y feliz por lo que aprendo cada dia.
+## Maria Griselda  - @googlerax
+
+### !Hola!:wave: :
+Soy una desarrolladora web principiante que durante este ultimo  años y medio ha adquirido habilidades en lenguajes de programación como HTML, CSS, JavaScript, python y java, como asi tambien el uso de la herramienta Git. 
+Actualmente estoy realizando el Bootcamp fullstack de [Undefined Academy](https://undefined.academy/) entre otros cursos,.
 
 > "_cada linea de codigo es un desafio_" :muscle:
 
 ---
 
-*:mortar_board: Mis lenguajes aprendidos:*
-- ![](https://img.icons8.com/color/48/null/python--v1.png) Python
-- ![](https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png) Java
-- ![](https://img.icons8.com/color/48/null/javascript--v1.png) JavaScript
-- ![](https://img.icons8.com/color/48/null/html-5--v1.png) HTML
-- ![](https://img.icons8.com/color/48/null/css3.png) CSS
+*:computer: Mis comandos mas utilizados*
 
----
-*:computer: mis comandos mas usados*
+| Comando |                Uso                         |
+| --------| -------------------------------------------|
+|   ls    | _Lista los archivos y directorios_         |
+|   pwd   | _Muestra la ruta al directorio actual_     |
+|   cd    | _cambia de directorio_                     |
+|   cat   |_Muestra el contenido de uno o mas archivos_|
 
-| Comando | Uso |
-| ---------- | ---------- |
-| ls  | _Lista los archivos y directorios_  |
-| pwd | _Muestra la ruta al directorio actual_ |
-|cd | _cambia de directorio_|
-|cat|_Muestra el contenido de uno o mas archivos_|
+*:computer: Mis alias creados*
 
-*:computer: mis alias usados*
-
-| Alias |   Uso           |
-| ---------- | ---------- |
-| d  | _cambia a mi unidad de trabajo_  |
-| cl | _limpia la consola_ |
+| Alias |               Uso                | 
+| ------| ---------------------------------|
+|   d   | _cambia a mi unidad de trabajo_  |
+|  cl   |     _limpia la consola_          |
 
 <!--
 **googlerax/googlerax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
