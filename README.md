@@ -1,26 +1,8 @@
-## - Maria Griselda  - 
+#### 👨🏻‍💻 Currently working on:
 
-### !Hola!:wave: :
-Soy una desarrolladora web principiante apasionada por la tecnología y en constante aprendizaje.    
-Durante este ultimo  años y medio he adquirido habilidades en lenguajes de programación como HTML, CSS, JavaScript, Python y Java, y tambien la herramienta Git.   
-Actualmente me encuentro realizando diversos cursos de desarrollo web y programacion, mi objetivo es insertarme en el mundo IT como trainee y luego como Junior.
-
-> :thought_balloon: "_cada linea de codigo es un desafio_"
-
----
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/><img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
 
 
-<!--
-**googlerax/googlerax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
