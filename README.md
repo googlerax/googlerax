@@ -4,7 +4,7 @@
 // Javascript
 const hola = {
     nombre:'Griselda Sanchez',
-    profesion:'👩‍💻 Programadora',
+    profesion:'👩‍💻 Developer',
     status: 'Trainee',
     FrontEnd:['Javascript ❤','HTML','CSS','Bootstrap'],
     BackEnd:['Node.js','Express.js'],
